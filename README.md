@@ -23,8 +23,5 @@ REPORT ME BUG ON INSTAGRAM
 # Contact
 <br>
 instagram : @yungreyyxrist
-<br>
-facebook : facebook.com/ctl.gaul
-<br>
 # Thanks to
 # Blackhole Scurity
