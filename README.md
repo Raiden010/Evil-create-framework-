@@ -3,11 +3,15 @@
 <br>
 tools to make virus es simple
 <br>
+$ apt install python2 
+<br>
+$ apt install git
+<br>
 $ git clone https://github.com/Raiden010/Evil-create-framework-.git
 <br>
 $ cd Evil-create-framework 
 <br>
-$ sh install.sh
+$ python2 vcrt.py
 <br>
 <br>
 # Simple commands
