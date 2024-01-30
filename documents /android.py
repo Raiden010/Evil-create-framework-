@@ -28,7 +28,7 @@ def a():
 	print "/modules/android/module_wifihonf            good"
 	print "/modules/android/module_braintest           good"
 	print "/modules/android/module_advancedobfus       normal"
-	print "/modules/android/module_agent	            normal"
+	print "/modules/android/module_agent	           normal"
 	print "/modules/android/module_badnews             good"
 	print "/modules/android/module_bios                normal"
 	print "/modules/android/module_blatansms           normal"
