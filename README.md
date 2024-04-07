@@ -11,8 +11,9 @@ $ git clone https://github.com/Raiden010/Evil-create-framework-.git
 <br>
 $ cd Evil-create-framework 
 <br>
-$ python2 vcrt.py
+$ sh install.sh
 <br>
+$ python2 vcrt.py 
 <br>
 # Simple commands
 <br> 
